@@ -1,4 +1,7 @@
 # MORBO DIVINO - Neon Dark
+[![Version](https://img.shields.io/visual-studio-marketplace/v/Alejandro-x.morbo-divino---neon-dark?label=Marketplace)](https://marketplace.visualstudio.com/items?itemName=Alejandro-x.morbo-divino---neon-dark)
+
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/Alejandro-x.morbo-divino---neon-dark)](https://marketplace.visualstudio.com/items?itemName=Alejandro-x.morbo-divino---neon-dark)
 
 ### A dark theme for Visual Studio Code.
 
