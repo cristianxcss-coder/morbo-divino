@@ -1,0 +1,23 @@
+{
+  "name": "morbo-divino---neon-dark",
+  "displayName": "Morbo Divino - Neon Dark",
+  "publisher": "alejandro-x",
+  "icon": "images/icon.png",
+  "description": "Expressing learning and growth, vibrating in neon",
+  "version": "1.0.1",
+  "engines": {
+    "vscode": "^1.146.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Morbo Divino - Neon Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Morbo Divino - Neon Dark-color-theme.json"
+      }
+    ]
+  }
+}
