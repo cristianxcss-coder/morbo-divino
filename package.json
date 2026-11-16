@@ -4,7 +4,7 @@
   "publisher": "alejandro-x",
   "icon": "images/icon.png",
   "description": "Expressing learning and growth, vibrating in neon",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.146.0"
   },
