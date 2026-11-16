@@ -10,3 +10,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - 1.0.0 / 15.11.2026
 improvements to the color palette layout, with beautiful translucent effects
+
+- 1.0.2 / 15.11.2026
+Fine-tuning details, and a preview is available
+
