@@ -1,4 +1,4 @@
-# MORBO DIVINO
+# MORBO DIVINO - Neon Dark
 
 ### A dark theme for Visual Studio Code.
 
